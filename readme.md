@@ -1,7 +1,4 @@
 # 📬 Servidor de Correo en Python
-
-Este proyecto implementa un sistema básico de servidor de correo electrónico utilizando **programación orientada a objetos (POO)** en Python. Se modelan las entidades principales de un sistema de mensajería: usuarios, mensajes, carpetas y el servidor de correo. El sistema aplica principios como **encapsulamiento**, **interfaces**, y diseño modular.
-
 ---
 
 ## 🧱 Estructura del Proyecto
