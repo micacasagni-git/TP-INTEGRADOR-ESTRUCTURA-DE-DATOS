@@ -10,6 +10,14 @@
 - **Carpeta**: Agrupa mensajes bajo un nombre específico (ej. “inbox”, “enviados”). Permite listar y almacenar mensajes.
 - **ServidorCorreo**: Administra el registro de usuarios y su acceso.
 
+
+### Diagrama de clases
+<!-- Diagrama SVG -->
+<p align="center">
+  <img src="./assets/diagrama.svg">
+</p>
+
+
 ### Interfaces (Abstract Base Classes)
 
 - **IEnviar**: Define el comportamiento para enviar mensajes.
